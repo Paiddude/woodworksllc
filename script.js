@@ -26,7 +26,7 @@ const headerContent = `
 		<nav id="drawer-navigation" class="drawer-navigation">
 			<div class="menu-primary-container"><ul id="menu-primary" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25876"><a href="/index.html">Home</a></li><li id="menu-item-9" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-9"><a>About</a>
 <ul class="sub-menu">
-	<li id="menu-item-16" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16"><a href="/about-us.html">The Timber Products Story</a></li>
+	<li id="menu-item-16" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16"><a href="/about-us.html">The Wood Works Story</a></li>
 	<li id="menu-item-26033" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26033"><a href="/our-team.html">Meet Our Teams</a></li>
 
 	<li id="menu-item-25287" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25287"><a href="contact-us.html">Contact Us</a></li>
