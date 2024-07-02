@@ -64,7 +64,7 @@ const headerContent = `
 					<nav id="site-navigation" class="main-navigation" aria-label="Main">
 						<div class="menu-primary-container"><ul id="menu-primary-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25876"><a href="/index.html">Home</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-9"><a>About</a>
 <ul class="sub-menu">
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16"><a href="/about-us.html">The Timber Products Story</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16"><a href="/about-us.html">Our Company Story</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26033"><a href="/our-team.html">Meet Our Teams</a></li>
 
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25287"><a href="/contact-us.html">Contact Us</a></li>
